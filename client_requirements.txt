@@ -74,6 +74,8 @@ panel oferty:
 		zmienia się stan oferty
 		obie strony otrzymują maila z powiadomieniem o zakończeniu/wygraniu licytacji
 
-
+system płatności:
+	korzystanie z zwenętrzynch dostawców systemów płatności jak np. PayU
+	implementacja ich api w serwisie
 
 
