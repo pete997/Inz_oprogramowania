@@ -1,0 +1,39 @@
+Wymagania klienta (lista)
+
+metody sprzedaży:
+	aukcja
+		tradycyjna
+		holenderska(?)
+		cena minimalna
+	kup teraz
+
+oferta:
+    wyróżnianie
+        na stronie głównej
+        na liście wyników
+	wycofanie
+	dane sprzedającego
+        adres
+        telefon
+        email
+        imię/nazwa firmy
+    zdjęcia
+    opis
+    podobne oferty pod sprawdzaną ofertą
+
+kategorie:
+    marka
+    model
+    rok produkcji
+    pojemność silnika
+    odległość od kupującego
+    cena
+    przebieg
+    typ silnika
+    moc
+
+dostęp do serwisu(?):
+    strona internetowa
+        wersja dla komputerów
+        wersja mobile
+    aplikacja dla smartfonów
