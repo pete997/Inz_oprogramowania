@@ -1,39 +1,79 @@
 Wymagania klienta (lista)
 
-metody sprzedaży:
-	aukcja
-		tradycyjna
-		holenderska(?)
-		cena minimalna
-	kup teraz
-
-oferta:
-    wyróżnianie
-        na stronie głównej
-        na liście wyników
-	wycofanie
-	dane sprzedającego
-        adres
-        telefon
-        email
-        imię/nazwa firmy
-    zdjęcia
-    opis
-    podobne oferty pod sprawdzaną ofertą
-
-kategorie:
-    marka
-    model
-    rok produkcji
-    pojemność silnika
-    odległość od kupującego
-    cena
-    przebieg
-    typ silnika
-    moc
 
 dostęp do serwisu(?):
     strona internetowa
-        wersja dla komputerów
-        wersja mobile
-    aplikacja dla smartfonów
+        wersja dla komputerów stacjonarnych (kompatybilność w z przeglądarkami Firefox, Chrome)
+        wersja mobile 
+    aplikacja dla smartfonów (IOS, Android)
+
+konto:
+	utworzenia konta przez użytkownika
+	logowanie do serwisu
+	strona ustawień profilu użytkownika, gdzie użytkownik może zmienić swoje dane kontaktowe, hasło
+	automat to resetu hasła
+
+bezpieczeństwo:
+	zabezpieczony serwer przed potencjalnymi atakami
+	baza danych użytkowników, ofert z podziałem na odpowiednie uprawnienia
+	podstrona zawierająca informację o przetwarzaniu danych użytkownikach, bezpieczeństwie danych itp
+	panel administratora serwisu gdzie admin będzie mógł banować użytkowników, edytować oferty wystawione przez użytkowników
+	możliwość uzyskania statusu zweryfikowany po weyfikacji u moderacji serwisu, ograniczenie oszustw
+
+wygląd aplikacji:
+	po wejściu na serwis zostajemy przekierowaniu na strone główną z ofertami akucyjnymi
+	menu boczne
+	menu logowania/ rejestracji
+	dodatkowe menu panelu użytkownika pojawiające się po zalogowaniu
+
+panelu użytkownika:
+	ustawienia konta
+	wystawione oferty
+	wygrane licytacje
+	bieżące oferty - oferty aktualnie licytowane
+
+menu boczne:
+	podstrona z danymi kontaktowymi do pomocy technicznej, ofert biznesowej współpracy
+	panel aukcji
+	kontakt - podstrona z danymi kontaktowymi do pomocy technicznej, ofert biznesowej współpracy
+	dodaj oferte
+
+panel aukcji:
+	wyszukiwarka ofert ze względu na dane szczegółowe, date dodania, zakończenia, cenę
+	możliwość sortowania aukcji ze względu na dane szczegółowe, date dodania, zakończenia, cenę
+	podgląd aukcji w stylu allegro, czy otomoto jako kafelków z najważniejszymi danymi, jak cena, model, zdjęcie podglądowe
+	po kliknięciu w kafelek z ofertą użytkownik jest przekierowany do panelu oferty
+
+dodaj oferte:
+    zdjęcia
+    opis
+    dane szczegółowe:
+	marka
+    	model
+    	rok produkcji
+    	pojemność silnika
+    	odległość od kupującego
+    	cena
+    	przebieg
+    	typ silnika
+    	moc
+    metoda sprzedaży
+	aukcja
+		tradycyjna
+		cena minimalna
+	kup teraz
+    daty trwania aukcji
+
+panel oferty:
+	status
+	możliwość licytacji aukcji
+	przeglądu oferty
+	dane kontaktowe sprzedającego
+	po zakończeniu oferty
+		panel ten trafia do odpowiedniej zakładki u sprzedającego i u kupującego
+		zmienia się stan oferty
+		obie strony otrzymują maila z powiadomieniem o zakończeniu/wygraniu licytacji
+
+
+
+
