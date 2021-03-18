@@ -1,7 +1,7 @@
 Wymagania klienta (lista)
 
 
-dostęp do serwisu(?):
+dostęp do serwisu:
     strona internetowa
         wersja dla komputerów stacjonarnych (kompatybilność w z przeglądarkami Firefox, Chrome)
         wersja mobile 
