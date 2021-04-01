@@ -1,0 +1,13 @@
+Klasy:
+
+użytownik:
+	metody:
+
+oferta:
+	metody:
+
+menu_boczne:
+	mtedoy:
+
+strona_z_aukcjami:
+	metdoy:
