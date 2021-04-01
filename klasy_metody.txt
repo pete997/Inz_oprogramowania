@@ -53,3 +53,6 @@ profil:
 
 panel_zmiany_hasła:
 	metody:
+
+wyszukiwarka:
+	metody:
