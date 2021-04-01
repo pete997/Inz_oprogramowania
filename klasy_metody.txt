@@ -9,7 +9,10 @@ użytownik:
 		TBD
 	metody:
 		konstruktor
-		.asView()
+		.as_view()
+		.zmien_haslo()
+		.zmien_login()
+		.zmien_dane()
 
 oferta:
 	pola:
@@ -18,29 +21,43 @@ oferta:
 		TBD
 	metody:
 		konstruktor
-		.asView()
+		.as_view()
 		.buy()
+		.edytuj_oferte()
+		.wycofaj_oferte()
+		.wycofaj_oferte_tymczasowo()
+		
 
 menu_boczne:
 	metody:
-		konstruktor domyślny
-		konstruktor dla użytkownika
-		.asView()
+		konstruktor
+		.as_view()
+
 
 strona_z_aukcjami:
 	metody:
+		konstruktor domyślny
+		konstruktor dla użytkownika
+		.as_view()
 
 panel_uzytkownika:
 	metody:
+		konstruktor
+		.as_view()
 
 menu_logowania:
 	metody:
+		.zaloguj()
 
 strona_logowania:
 	metody:
+		konstruktor
+		.as_view()
 
 strona_kontaktowa:
 	metody:
+		konstruktor
+		.as_view()
 
 formularz_kontaktowy:
 	metody:
