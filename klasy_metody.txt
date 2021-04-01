@@ -13,9 +13,30 @@ oferta:
 
 menu_boczne:
 	metody:
-
-strona_z_aukcjami:
-	metody:
 		konstruktor domyślny
 		konstruktor dla użytkownika
 		.asView()
+
+strona_z_aukcjami:
+	metody:
+
+panel_uzytkownika:
+	metody:
+
+menu_logowania:
+	metody:
+
+strona_logowania:
+	metody:
+
+strona_kontaktowa:
+	metody:
+
+formularz_kontaktowy:
+	metody:
+	
+licytacja:
+	metody:
+
+profil:
+	metody:
