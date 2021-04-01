@@ -1,11 +1,21 @@
 Klasy:
 
 użytownik:
+	pola:
+		login
+		hasło
+		nazwa
+		adres
+		TBD
 	metody:
 		konstruktor
 		.asView()
 
 oferta:
+	pola:
+		nazwa
+		użytkownik
+		TBD
 	metody:
 		konstruktor
 		.asView()
@@ -39,4 +49,7 @@ licytacja:
 	metody:
 
 profil:
+	metody:
+
+panel_zmiany_hasła:
 	metody:
