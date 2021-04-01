@@ -11,3 +11,24 @@ menu_boczne:
 
 strona_z_aukcjami:
 	metdoy:
+
+panel_uzytkownika:
+	metody:
+
+menu_logowania:
+	metody:
+
+strona_logowania:
+	metody:
+
+strona_kontaktowa:
+	metody:
+
+formularz_kontaktowy:
+	metody:
+	
+licytacja:
+	metody:
+
+profil:
+	metody:
