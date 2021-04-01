@@ -2,12 +2,20 @@ Klasy:
 
 użytownik:
 	metody:
+		konstruktor
+		.asView()
 
 oferta:
 	metody:
+		konstruktor
+		.asView()
+		.buy()
 
 menu_boczne:
-	mtedoy:
+	metody:
 
 strona_z_aukcjami:
-	metdoy:
+	metody:
+		konstruktor domyślny
+		konstruktor dla użytkownika
+		.asView()
