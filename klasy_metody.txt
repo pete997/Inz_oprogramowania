@@ -55,21 +55,63 @@ strona_logowania:
 		.as_view()
 
 strona_kontaktowa:
+	pola:
+		dane_kontaktowe_firmy
+			tel
+			email
+			nazwa
+			siedziba
+		opis_firmy
+		formularz_kontaktowy
 	metody:
 		konstruktor
 		.as_view()
 
 formularz_kontaktowy:
+	pola:
+		email_nadawcy
+		tytul
+		tresc_pole_tekstowe
+		przycisk_wysilij
 	metody:
+		sprawdz_poprawnosc_email
+		wyslij
 	
 licytacja:
+	pola:
+		wystawiajacy
+		wygrywajacy_aukcje
+		data_rozpoczecia
+		data_zakonczenia
+		cena_wywolwacza
+		cena_kup_teraz
+		minimalna_kwota_przebicia
+		oferta
 	metody:
-
-profil:
-	metody:
+		wystaw_licytacje
+		zmien_date_zakonczenia
+		zmien_date_rozpoczecia
+		zmien_cene_wywolawcza
+		zmien_cene_kup_teraz
+		zmien_min_kwote_przebicai
 
 panel_zmiany_hasła:
+	pola:
+		adres email
+		nr telefonu
+		kod
+		haslo
 	metody:
-
+		wyslij_kod_na_adres_email
+		wyslij_kod_na_tel
+		zmien haslo
 wyszukiwarka:
+	pola:
+		cena_minimalna
+		cena maksymalna
+		data_wystawienia
+		data_zakonczenia
 	metody:
+		wyszukaj(uwzgledniajac kategroie wedlug pól)
+
+
