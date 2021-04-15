@@ -28,7 +28,7 @@ cel: utworzenie podstawowej strony głównej służącej do testowania nowych kl
 osoba - Kucharczyk
 
 cel: stworzenie bazy danych zaweirającej encje reprezntujące klasy w serwisie (użytkownik, oferta, licytacja, ...),
-     przetestowanie czy baza dancyh działa poprawnie z serwerem
+     przetestowanie czy baza danych działa poprawnie z serwerem
 
 Sprint 2
 
