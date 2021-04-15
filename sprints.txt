@@ -1,7 +1,9 @@
 Sprint 1
     planowanie sprintu
-        1d Jadczak, Kucharczyk
+        Jadczak, Kucharczyk 1d 15.04
     instalacja i bazowa konfiguracja serwera
-        1d Kucharczyk
+        Kucharczyk 1d 16.04
     tworzenie podstawowych modeli użytkownika i aukcji
-        2d Jadczak
+        Jadczak 2d 16.04-17.04
+    tworzenie szablonów html
+        Kucharczyk 1d 17.04
