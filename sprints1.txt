@@ -13,7 +13,6 @@ osoba - Kucharczyk
 cel: przypomnienie języka sql, tworzenia modeli bazy danych UML, konfiguracji bazy danych postgresql
 osoba - Jadczak
 
-<<<<<<< HEAD
 17.04-19.04
 cel: postawienie i podstawowa konfiguracja serwera opartego na spring boot + bazie danych postgresql,
      stworzenie prostego środowiska testowego i umieszczenie tam aplikacji
@@ -30,52 +29,48 @@ osoba - Kucharczyk
 cel: stworzenie bazy danych zaweirającej encje reprezntujące klasy w serwisie (użytkownik, oferta, licytacja, ...),
      przetestowanie czy baza dancyh działa poprawnie z serwerem
 
-Sprint 2
 
-
-Sprint 3
-=======
 Sprint 2
 9d  22.04-30.04
 Cel sprintu: Rozbudowa funkcjonalności serwisu
 
-    22.04-22.04
-    cel: planowanie sprintu
-    zadanie wspólne: Jadczak, Kucharczyk
+22.04-22.04
+cel: planowanie sprintu
+zadanie wspólne: Jadczak, Kucharczyk
 
-    23.04-23.04
-    cel: implementacja klasy Oferta
-    osoba: Jadczak
+23.04-23.04
+cel: implementacja klasy Oferta
+osoba: Jadczak
 
-    cel: implementacja klasy Użytkownik
-    osoba: Kucharczyk
+cel: implementacja klasy Użytkownik
+osoba: Kucharczyk
 
 
-    24.04-24.04
-    cel: implementacja systemu autentykacji
-    osoba: Jadczak
+24.04-24.04
+cel: implementacja systemu autentykacji
+osoba: Jadczak
 
-    cel: implementacja metod zakupu klasy Oferta (kup teraz, licytacja)
-    cel: implementacja obsługi płatności przez wdrożenie API serwisu PayU
-    osoba: Kucharczyk
+cel: implementacja metod zakupu klasy Oferta (kup teraz, licytacja)
+cel: implementacja obsługi płatności przez wdrożenie API serwisu PayU
+osoba: Kucharczyk
 
-    25.04-25.04
-    cel: implementacja rejestracji użytkownika
-    osoba: Jadczak
-    cel: utworzenie szablonu strony rejestracji użytkownika
-    cel: utworzenie szablonu html strony głównej
-    osoba: Kucharczyk
+25.04-25.04
+cel: implementacja rejestracji użytkownika
+osoba: Jadczak
+cel: utworzenie szablonu strony rejestracji użytkownika
+cel: utworzenie szablonu html strony głównej
+osoba: Kucharczyk
 
-    26.04-30.04
-    cel: utworzenie szablonu html prezentującego Użytkownika
-    cel: utworzenie szablonu html strony odzyskiwania hasła
-    cel: utworzenie szablonu html strony kontaktowej
-    osoba: Jadczak
+26.04-30.04
+cel: utworzenie szablonu html prezentującego Użytkownika
+cel: utworzenie szablonu html strony odzyskiwania hasła
+cel: utworzenie szablonu html strony kontaktowej
+osoba: Jadczak
 
-    cel: utworzenie szablonu html prezentującego Ofertę
-    cel: utworzenie szablonu html prezentującego listę ofert
-    osoba: Kucharczyk
+cel: utworzenie szablonu html prezentującego Ofertę
+cel: utworzenie szablonu html prezentującego listę ofert
+osoba: Kucharczyk
 
 
 Sprint 3
->>>>>>> f352cd2075541ac06f1ea7f1244c7c9276839601
+
