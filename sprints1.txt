@@ -1,5 +1,5 @@
 Sprint 1 
-6d 15.04-21.04
+6 dni 15.04-21.04
 Cel sprintu: Stworzenie podstaw aplikacji serwisu + podział tworzenia projektu na sprinty
 
 15.04-15.04 
@@ -13,3 +13,23 @@ osoba - Kucharczyk
 cel: przypomnienie języka sql, tworzenia modeli bazy danych UML, konfiguracji bazy danych postgresql
 osoba - Jadczak
 
+17.04-19.04
+cel: postawienie i podstawowa konfiguracja serwera opartego na spring boot + bazie danych postgresql,
+     stworzenie prostego środowiska testowego i umieszczenie tam aplikacji
+osoba - Kucharczyk
+
+cel: stworzenie modelu bazy danych do serwisu (podział klas na encje, opracowanie zależności między encjami),
+     konfiguracja bazy danych (uprawnienia admina, użytkownika, podstawowe zabezpieczenia)
+
+20.04-21.04
+cel: utworzenie podstawowej strony głównej służącej do testowania nowych klas, elementów witryny,
+     wybór i zapoznanie się z językiem, bibliotekami, które będa służyć do front endu aplikacji
+osoba - Kucharczyk
+
+cel: stworzenie bazy danych zaweirającej encje reprezntujące klasy w serwisie (użytkownik, oferta, licytacja, ...),
+     przetestowanie czy baza dancyh działa poprawnie z serwerem
+
+Sprint 2
+
+
+Sprint 3
