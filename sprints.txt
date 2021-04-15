@@ -1,0 +1,7 @@
+Sprint 1
+    planowanie sprintu
+        1d Jadczak, Kucharczyk
+    instalacja i bazowa konfiguracja serwera
+        1d Kucharczyk
+    tworzenie podstawowych modeli użytkownika i aukcji
+        2d Jadczak
