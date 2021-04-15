@@ -28,6 +28,7 @@ osoba - Kucharczyk
 
 cel: stworzenie bazy danych zaweirającej encje reprezntujące klasy w serwisie (użytkownik, oferta, licytacja, ...),
      przetestowanie czy baza dancyh działa poprawnie z serwerem
+osoba - Jadczak
 
 
 Sprint 2
