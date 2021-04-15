@@ -14,6 +14,45 @@ cel: przypomnienie języka sql, tworzenia modeli bazy danych UML, konfiguracji b
 osoba - Jadczak
 
 Sprint 2
+9d  22.04-30.04
+Cel sprintu: Rozbudowa funkcjonalności serwisu
+
+    22.04-22.04
+    cel: planowanie sprintu
+    zadanie wspólne: Jadczak, Kucharczyk
+
+    23.04-23.04
+    cel: implementacja klasy Oferta
+    osoba: Jadczak
+
+    cel: implementacja klasy Użytkownik
+    osoba: Kucharczyk
+
+
+    24.04-24.04
+    cel: implementacja systemu autentykacji
+    osoba: Jadczak
+
+    cel: implementacja metod zakupu klasy Oferta (kup teraz, licytacja)
+    cel: implementacja obsługi płatności przez wdrożenie API serwisu PayU
+    osoba: Kucharczyk
+
+    25.04-25.04
+    cel: implementacja rejestracji użytkownika
+    osoba: Jadczak
+    cel: utworzenie szablonu strony rejestracji użytkownika
+    cel: utworzenie szablonu html strony głównej
+    osoba: Kucharczyk
+
+    26.04-30.04
+    cel: utworzenie szablonu html prezentującego Użytkownika
+    cel: utworzenie szablonu html strony odzyskiwania hasła
+    cel: utworzenie szablonu html strony kontaktowej
+    osoba: Jadczak
+
+    cel: utworzenie szablonu html prezentującego Ofertę
+    cel: utworzenie szablonu html prezentującego listę ofert
+    osoba: Kucharczyk
 
 
 Sprint 3
