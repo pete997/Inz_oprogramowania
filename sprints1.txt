@@ -13,3 +13,7 @@ osoba - Kucharczyk
 cel: przypomnienie języka sql, tworzenia modeli bazy danych UML, konfiguracji bazy danych postgresql
 osoba - Jadczak
 
+Sprint 2
+
+
+Sprint 3
