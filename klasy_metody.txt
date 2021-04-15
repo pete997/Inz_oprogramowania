@@ -29,27 +29,65 @@ oferta:
 		
 
 menu_boczne:
+	pola:
+		
 	metody:
 		konstruktor
 		.as_view()
 
 
 strona_z_aukcjami:
+	pola:
+		lista_ofert
 	metody:
 		konstruktor domyślny
 		konstruktor dla użytkownika
 		.as_view()
 
+adres:
+	pola:
+		kraj
+		miasto
+		kod pocztowy
+		ulica
+	
+uzytkownik:
+	pola:
+		imie
+		nazwisko
+		email
+		hasło
+		nr_telefonu
+		adres
+		licytowane_aukcje
+		moje_aukcje
+	metody:
+		zmien_dane_osobowe
+		zmien_adres
+		
 panel_uzytkownika:
+	pola:
+		uzytkownik
+		menu_boczne
 	metody:
 		konstruktor
 		.as_view()
-
+		
+		
 menu_logowania:
+	pola:
+		login
+		hasło
+		przypomnij_hasło
 	metody:
-		.zaloguj()
+		konstruktor
+		.as_view()
+		zaloguj
+		przypomnij_hasło
 
 strona_logowania:
+	pola:
+		menu_logowania
 	metody:
 		konstruktor
 		.as_view()
