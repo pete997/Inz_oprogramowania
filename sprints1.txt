@@ -26,7 +26,7 @@ cel: utworzenie podstawowej strony głównej służącej do testowania nowych kl
      wybór i zapoznanie się z językiem, bibliotekami, które będa służyć do front endu aplikacji
 osoba - Kucharczyk
 
-cel: stworzenie bazy danych zaweirającej encje reprezntujące klasy w serwisie (użytkownik, oferta, licytacja, ...),
+cel: stworzenie bazy danych zawierającej encje reprezntujące klasy w serwisie (użytkownik, oferta, licytacja, ...),
      przetestowanie czy baza dancyh działa poprawnie z serwerem
 osoba - Jadczak
 
