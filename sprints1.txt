@@ -13,18 +13,3 @@ osoba - Kucharczyk
 cel: przypomnienie języka sql, tworzenia modeli bazy danych UML, konfiguracji bazy danych postgresql
 osoba - Jadczak
 
-    instalacja i bazowa konfiguracja serwera
-        Kucharczyk 1d 16.04
-    tworzenie szablonów html strony głównej i panelu menu logowania
-        Kucharczyk 1d 17.04
-    tworzenie szablonów html oferty i strony kontaktowej
-        Kucharczyk 2d 19.04-20.04
-    rezerwacja domeny i konfiguracja serwera hostingującego
-        Kucharczyk 1d 21.04
-
-    tworzenie podstawowych modeli użytkownika i oferty
-        Jadczak 2d 16.04-17.04
-    implementacja systemu autentykacji
-        Jadczak 2d 19.04-20.04
-    implementacja systemu zakupu 'Kup teraz'
-        Jadczak 1d 21.04
