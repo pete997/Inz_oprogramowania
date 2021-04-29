@@ -24,45 +24,41 @@ zadanie wspólne
 
 
 Sprint 2
-9d  22.04-30.04
-Cel sprintu: Implementacja funkcjonalności serwisu
+23.05-31.07
+Cel sprintu: Rozbudowa funkcjonalności serwisu
 
-22.04-22.04
-cel: planowanie sprintu
-zadanie wspólne: Jadczak, Kucharczyk
-
-23.04-23.04
+23.05-26.06
 cel: implementacja klasy Oferta
-osoba: Jadczak
+osoba - Jadczak
 
 cel: implementacja klasy Użytkownik
-osoba: Kucharczyk
+osoba - Kucharczyk
 
-
-24.04-24.04
+26.06-12.07
 cel: implementacja systemu autentykacji
-osoba: Jadczak
+osoba - Jadczak
 
 cel: implementacja metod zakupu klasy Oferta (kup teraz, licytacja)
 cel: implementacja obsługi płatności przez wdrożenie API serwisu PayU
-osoba: Kucharczyk
+osoba - Kucharczyk
 
-25.04-25.04
+13.07-20.06
 cel: implementacja rejestracji użytkownika
-osoba: Jadczak
+osoba - Jadczak
 cel: utworzenie szablonu strony rejestracji użytkownika
 cel: utworzenie szablonu html strony głównej
-osoba: Kucharczyk
+osoba - Kucharczyk
 
-26.04-30.04
+21.07-31.07
 cel: utworzenie szablonu html prezentującego Użytkownika
 cel: utworzenie szablonu html strony odzyskiwania hasła
 cel: utworzenie szablonu html strony kontaktowej
-osoba: Jadczak
+osoba - Jadczak
 
 cel: utworzenie szablonu html prezentującego Ofertę
 cel: utworzenie szablonu html prezentującego listę ofert
-osoba: Kucharczyk
+osoba - Kucharczyk
+
 
 Sprint 3
 01.08 - 01.10
