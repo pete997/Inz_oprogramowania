@@ -30,13 +30,17 @@ oferta:
 
 menu_boczne:
 	pola:
+		przycisk przekierowujace do podston:
+		- kontakt
+		- strona z ofertami
+
 		
 	metody:
 		konstruktor
 		.as_view()
 
 
-strona_z_aukcjami:
+strona_z_ofertami:
 	pola:
 		lista_ofert
 	metody:
