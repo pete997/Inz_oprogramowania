@@ -25,7 +25,7 @@ zadanie wspólne
 
 Sprint 2
 9d  22.04-30.04
-Cel sprintu: Rozbudowa funkcjonalności serwisu
+Cel sprintu: Implementacja funkcjonalności serwisu
 
 22.04-22.04
 cel: planowanie sprintu
@@ -64,6 +64,18 @@ cel: utworzenie szablonu html prezentującego Ofertę
 cel: utworzenie szablonu html prezentującego listę ofert
 osoba: Kucharczyk
 
-
 Sprint 3
+01.08 - 01.10
+cel: Implementacja projektu graficznego serwsiu, walidacja poprawności działania serwisu z poziomu i użytkownika, poprawa bezpieczeństwa serwsiu
+
+01.08-31.08
+cel: dodanie arkusza stylów css, potrzebnych skryptów java scrpit dla wszysktich podstron serwsiu
+zadanie wspólne
+
+01.09 - 01.10
+cel: walidacja poprawności działania serwisu z poziomu i użytkownika, tworzenie i przeprowadzanie scenariuszy testowych
+osoba: Kucharczyk
+
+cel: poprawa bezpieczeństwa serwsiu - wprowadzenie walidacji danych przy interakcji użytkownika z serwisem, testowanie uprawnień użytkowników w obrębie serwisu
+osoba: Piotr Jadczak
 
