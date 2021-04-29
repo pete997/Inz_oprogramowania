@@ -1,4 +1,11 @@
-Wymagania klienta (lista)
+Opis projektu
+
+Celem projektu jest utworzenie oraz opublikowanie serwisu aukcyjnego samochodów zabytkowych.
+Serwis powinien udostępniać wybranym użytkownikom możliwość utworzenia aukcji w której udział mogą wziąć wszyscy zainteresowani użytkownicy.
+Serwis pobiera opłaty za licytacje oraz prowizje od sprzedaży. 
+Serwis powinien być dostępny dla użytkowników różnych platform.
+
+Wymagania (lista)
 
 
 dostęp do serwisu:
