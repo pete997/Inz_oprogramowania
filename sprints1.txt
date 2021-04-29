@@ -1,19 +1,8 @@
 Sprint 1 
-6 dni 15.04-21.04
-Cel sprintu: Stworzenie podstaw aplikacji serwisu + podział tworzenia projektu na sprinty
+15.04-22.05
+Cel sprintu: Stworzenie podstaw aplikacji serwisu
 
-15.04-15.04 
-cel: podział i określenie celów pierwszych spirntów do stworzenia podstaw serwisu aukcyjnego
-zadanie wspólne -  Jadczak, Kucharczyk
-
-16.04-16.04
-cel: nauka postawienia i konfiguracji serwera opartego na spring boot + bazie danych postgresql
-osoba - Kucharczyk
-
-cel: przypomnienie języka sql, tworzenia modeli bazy danych UML, konfiguracji bazy danych postgresql
-osoba - Jadczak
-
-17.04-19.04
+15.04 - 30.04
 cel: postawienie i podstawowa konfiguracja serwera opartego na spring boot + bazie danych postgresql,
      stworzenie prostego środowiska testowego i umieszczenie tam aplikacji
 osoba - Kucharczyk
@@ -21,14 +10,17 @@ osoba - Kucharczyk
 cel: stworzenie modelu bazy danych do serwisu (podział klas na encje, opracowanie zależności między encjami),
      konfiguracja bazy danych (uprawnienia admina, użytkownika, podstawowe zabezpieczenia)
 
-20.04-21.04
-cel: utworzenie podstawowej strony głównej służącej do testowania nowych klas, elementów witryny,
-     wybór i zapoznanie się z językiem, bibliotekami, które będa służyć do front endu aplikacji
+01.05 - 15.05
+cel: utworzenie podstawowej strony głównej służącej do testowania nowych klas, elementów witryny
 osoba - Kucharczyk
 
 cel: stworzenie bazy danych zawierającej encje reprezntujące klasy w serwisie (użytkownik, oferta, licytacja, ...),
-     przetestowanie czy baza dancyh działa poprawnie z serwerem
+     połączenie i przetestowanie działania bazych danych działa z frameworkiem
 osoba - Jadczak
+
+15.05 - 22.05
+cel: utworzenie graficznej wersji strony głównej serwisu, wybór technologi front end
+zadanie wspólne
 
 
 Sprint 2
